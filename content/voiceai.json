@@ -1,0 +1,39 @@
+{
+  "label": "SYNTHETIC ONLY",
+  "activation_projects": 59,
+  "eligible_projects": 64,
+  "funnel": [
+    {
+      "signed_up": 64,
+      "key_created": 62,
+      "first_success": 59,
+      "deployed": 33
+    }
+  ],
+  "billed_cents": 48404,
+  "expected_cents": 48281,
+  "discrepancy_cents": 123,
+  "exceptions": 1,
+  "experiment": {
+    "arms": [
+      {
+        "variant": "guided",
+        "projects": 26,
+        "activated": 25
+      },
+      {
+        "variant": "standard",
+        "projects": 38,
+        "activated": 34
+      }
+    ],
+    "absolute_lift_pp": 6.68016194331984,
+    "ci95_pp": [
+      -9.653864030684886,
+      20.647446307693166
+    ],
+    "srm_chi2": 2.25,
+    "srm_p": 0.13361440253771617,
+    "method": "Project-level ITT; Newcombe difference CI from Wilson intervals; SRM chi-square (1 df)"
+  }
+}

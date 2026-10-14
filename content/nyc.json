@@ -1,0 +1,4192 @@
+{
+  "daily": [
+    {
+      "date_day": "2025-04-01",
+      "agency": "DEP",
+      "arrivals": "492",
+      "closures": "176",
+      "cohort_backlog": "316"
+    },
+    {
+      "date_day": "2025-04-02",
+      "agency": "DEP",
+      "arrivals": "634",
+      "closures": "332",
+      "cohort_backlog": "618"
+    },
+    {
+      "date_day": "2025-04-03",
+      "agency": "DEP",
+      "arrivals": "563",
+      "closures": "515",
+      "cohort_backlog": "666"
+    },
+    {
+      "date_day": "2025-04-04",
+      "agency": "DEP",
+      "arrivals": "452",
+      "closures": "379",
+      "cohort_backlog": "739"
+    },
+    {
+      "date_day": "2025-04-05",
+      "agency": "DEP",
+      "arrivals": "279",
+      "closures": "81",
+      "cohort_backlog": "937"
+    },
+    {
+      "date_day": "2025-04-06",
+      "agency": "DEP",
+      "arrivals": "309",
+      "closures": "129",
+      "cohort_backlog": "1117"
+    },
+    {
+      "date_day": "2025-04-07",
+      "agency": "DEP",
+      "arrivals": "398",
+      "closures": "485",
+      "cohort_backlog": "1030"
+    },
+    {
+      "date_day": "2025-04-08",
+      "agency": "DEP",
+      "arrivals": "474",
+      "closures": "491",
+      "cohort_backlog": "1013"
+    },
+    {
+      "date_day": "2025-04-09",
+      "agency": "DEP",
+      "arrivals": "442",
+      "closures": "436",
+      "cohort_backlog": "1019"
+    },
+    {
+      "date_day": "2025-04-10",
+      "agency": "DEP",
+      "arrivals": "411",
+      "closures": "453",
+      "cohort_backlog": "977"
+    },
+    {
+      "date_day": "2025-04-11",
+      "agency": "DEP",
+      "arrivals": "365",
+      "closures": "319",
+      "cohort_backlog": "1023"
+    },
+    {
+      "date_day": "2025-04-12",
+      "agency": "DEP",
+      "arrivals": "298",
+      "closures": "211",
+      "cohort_backlog": "1110"
+    },
+    {
+      "date_day": "2025-04-13",
+      "agency": "DEP",
+      "arrivals": "252",
+      "closures": "126",
+      "cohort_backlog": "1236"
+    },
+    {
+      "date_day": "2025-04-14",
+      "agency": "DEP",
+      "arrivals": "448",
+      "closures": "464",
+      "cohort_backlog": "1220"
+    },
+    {
+      "date_day": "2025-04-15",
+      "agency": "DEP",
+      "arrivals": "501",
+      "closures": "442",
+      "cohort_backlog": "1279"
+    },
+    {
+      "date_day": "2025-04-16",
+      "agency": "DEP",
+      "arrivals": "427",
+      "closures": "349",
+      "cohort_backlog": "1357"
+    },
+    {
+      "date_day": "2025-04-17",
+      "agency": "DEP",
+      "arrivals": "378",
+      "closures": "540",
+      "cohort_backlog": "1195"
+    },
+    {
+      "date_day": "2025-04-18",
+      "agency": "DEP",
+      "arrivals": "353",
+      "closures": "322",
+      "cohort_backlog": "1226"
+    },
+    {
+      "date_day": "2025-04-19",
+      "agency": "DEP",
+      "arrivals": "367",
+      "closures": "160",
+      "cohort_backlog": "1433"
+    },
+    {
+      "date_day": "2025-04-20",
+      "agency": "DEP",
+      "arrivals": "260",
+      "closures": "124",
+      "cohort_backlog": "1569"
+    },
+    {
+      "date_day": "2025-04-21",
+      "agency": "DEP",
+      "arrivals": "490",
+      "closures": "523",
+      "cohort_backlog": "1536"
+    },
+    {
+      "date_day": "2025-04-22",
+      "agency": "DEP",
+      "arrivals": "568",
+      "closures": "628",
+      "cohort_backlog": "1476"
+    },
+    {
+      "date_day": "2025-04-23",
+      "agency": "DEP",
+      "arrivals": "417",
+      "closures": "419",
+      "cohort_backlog": "1474"
+    },
+    {
+      "date_day": "2025-04-24",
+      "agency": "DEP",
+      "arrivals": "538",
+      "closures": "494",
+      "cohort_backlog": "1518"
+    },
+    {
+      "date_day": "2025-04-25",
+      "agency": "DEP",
+      "arrivals": "530",
+      "closures": "443",
+      "cohort_backlog": "1605"
+    },
+    {
+      "date_day": "2025-04-26",
+      "agency": "DEP",
+      "arrivals": "342",
+      "closures": "208",
+      "cohort_backlog": "1739"
+    },
+    {
+      "date_day": "2025-04-27",
+      "agency": "DEP",
+      "arrivals": "297",
+      "closures": "156",
+      "cohort_backlog": "1880"
+    },
+    {
+      "date_day": "2025-04-28",
+      "agency": "DEP",
+      "arrivals": "510",
+      "closures": "615",
+      "cohort_backlog": "1775"
+    },
+    {
+      "date_day": "2025-04-29",
+      "agency": "DEP",
+      "arrivals": "466",
+      "closures": "499",
+      "cohort_backlog": "1742"
+    },
+    {
+      "date_day": "2025-04-30",
+      "agency": "DEP",
+      "arrivals": "468",
+      "closures": "583",
+      "cohort_backlog": "1627"
+    },
+    {
+      "date_day": "2025-05-01",
+      "agency": "DEP",
+      "arrivals": "542",
+      "closures": "497",
+      "cohort_backlog": "1672"
+    },
+    {
+      "date_day": "2025-05-02",
+      "agency": "DEP",
+      "arrivals": "456",
+      "closures": "422",
+      "cohort_backlog": "1706"
+    },
+    {
+      "date_day": "2025-05-03",
+      "agency": "DEP",
+      "arrivals": "355",
+      "closures": "189",
+      "cohort_backlog": "1872"
+    },
+    {
+      "date_day": "2025-05-04",
+      "agency": "DEP",
+      "arrivals": "314",
+      "closures": "213",
+      "cohort_backlog": "1973"
+    },
+    {
+      "date_day": "2025-05-05",
+      "agency": "DEP",
+      "arrivals": "536",
+      "closures": "612",
+      "cohort_backlog": "1897"
+    },
+    {
+      "date_day": "2025-05-06",
+      "agency": "DEP",
+      "arrivals": "489",
+      "closures": "526",
+      "cohort_backlog": "1860"
+    },
+    {
+      "date_day": "2025-05-07",
+      "agency": "DEP",
+      "arrivals": "466",
+      "closures": "645",
+      "cohort_backlog": "1681"
+    },
+    {
+      "date_day": "2025-05-08",
+      "agency": "DEP",
+      "arrivals": "483",
+      "closures": "548",
+      "cohort_backlog": "1616"
+    },
+    {
+      "date_day": "2025-05-09",
+      "agency": "DEP",
+      "arrivals": "439",
+      "closures": "476",
+      "cohort_backlog": "1579"
+    },
+    {
+      "date_day": "2025-05-10",
+      "agency": "DEP",
+      "arrivals": "369",
+      "closures": "190",
+      "cohort_backlog": "1758"
+    },
+    {
+      "date_day": "2025-05-11",
+      "agency": "DEP",
+      "arrivals": "302",
+      "closures": "144",
+      "cohort_backlog": "1916"
+    },
+    {
+      "date_day": "2025-05-12",
+      "agency": "DEP",
+      "arrivals": "515",
+      "closures": "566",
+      "cohort_backlog": "1865"
+    },
+    {
+      "date_day": "2025-05-13",
+      "agency": "DEP",
+      "arrivals": "452",
+      "closures": "586",
+      "cohort_backlog": "1731"
+    },
+    {
+      "date_day": "2025-05-14",
+      "agency": "DEP",
+      "arrivals": "530",
+      "closures": "655",
+      "cohort_backlog": "1606"
+    },
+    {
+      "date_day": "2025-05-15",
+      "agency": "DEP",
+      "arrivals": "535",
+      "closures": "471",
+      "cohort_backlog": "1670"
+    },
+    {
+      "date_day": "2025-05-16",
+      "agency": "DEP",
+      "arrivals": "442",
+      "closures": "455",
+      "cohort_backlog": "1657"
+    },
+    {
+      "date_day": "2025-05-17",
+      "agency": "DEP",
+      "arrivals": "413",
+      "closures": "211",
+      "cohort_backlog": "1859"
+    },
+    {
+      "date_day": "2025-05-18",
+      "agency": "DEP",
+      "arrivals": "342",
+      "closures": "201",
+      "cohort_backlog": "2000"
+    },
+    {
+      "date_day": "2025-05-19",
+      "agency": "DEP",
+      "arrivals": "508",
+      "closures": "587",
+      "cohort_backlog": "1921"
+    },
+    {
+      "date_day": "2025-05-20",
+      "agency": "DEP",
+      "arrivals": "649",
+      "closures": "636",
+      "cohort_backlog": "1934"
+    },
+    {
+      "date_day": "2025-05-21",
+      "agency": "DEP",
+      "arrivals": "426",
+      "closures": "483",
+      "cohort_backlog": "1877"
+    },
+    {
+      "date_day": "2025-05-22",
+      "agency": "DEP",
+      "arrivals": "507",
+      "closures": "554",
+      "cohort_backlog": "1830"
+    },
+    {
+      "date_day": "2025-05-23",
+      "agency": "DEP",
+      "arrivals": "405",
+      "closures": "502",
+      "cohort_backlog": "1733"
+    },
+    {
+      "date_day": "2025-05-24",
+      "agency": "DEP",
+      "arrivals": "305",
+      "closures": "195",
+      "cohort_backlog": "1843"
+    },
+    {
+      "date_day": "2025-05-25",
+      "agency": "DEP",
+      "arrivals": "269",
+      "closures": "154",
+      "cohort_backlog": "1958"
+    },
+    {
+      "date_day": "2025-05-26",
+      "agency": "DEP",
+      "arrivals": "356",
+      "closures": "112",
+      "cohort_backlog": "2202"
+    },
+    {
+      "date_day": "2025-05-27",
+      "agency": "DEP",
+      "arrivals": "705",
+      "closures": "780",
+      "cohort_backlog": "2127"
+    },
+    {
+      "date_day": "2025-05-28",
+      "agency": "DEP",
+      "arrivals": "492",
+      "closures": "715",
+      "cohort_backlog": "1904"
+    },
+    {
+      "date_day": "2025-05-29",
+      "agency": "DEP",
+      "arrivals": "482",
+      "closures": "494",
+      "cohort_backlog": "1892"
+    },
+    {
+      "date_day": "2025-05-30",
+      "agency": "DEP",
+      "arrivals": "460",
+      "closures": "481",
+      "cohort_backlog": "1871"
+    },
+    {
+      "date_day": "2025-05-31",
+      "agency": "DEP",
+      "arrivals": "298",
+      "closures": "183",
+      "cohort_backlog": "1986"
+    },
+    {
+      "date_day": "2025-06-01",
+      "agency": "DEP",
+      "arrivals": "325",
+      "closures": "176",
+      "cohort_backlog": "2135"
+    },
+    {
+      "date_day": "2025-06-02",
+      "agency": "DEP",
+      "arrivals": "470",
+      "closures": "509",
+      "cohort_backlog": "2096"
+    },
+    {
+      "date_day": "2025-06-03",
+      "agency": "DEP",
+      "arrivals": "476",
+      "closures": "545",
+      "cohort_backlog": "2027"
+    },
+    {
+      "date_day": "2025-06-04",
+      "agency": "DEP",
+      "arrivals": "478",
+      "closures": "536",
+      "cohort_backlog": "1969"
+    },
+    {
+      "date_day": "2025-06-05",
+      "agency": "DEP",
+      "arrivals": "599",
+      "closures": "588",
+      "cohort_backlog": "1980"
+    },
+    {
+      "date_day": "2025-06-06",
+      "agency": "DEP",
+      "arrivals": "574",
+      "closures": "567",
+      "cohort_backlog": "1987"
+    },
+    {
+      "date_day": "2025-06-07",
+      "agency": "DEP",
+      "arrivals": "433",
+      "closures": "269",
+      "cohort_backlog": "2151"
+    },
+    {
+      "date_day": "2025-06-08",
+      "agency": "DEP",
+      "arrivals": "356",
+      "closures": "273",
+      "cohort_backlog": "2234"
+    },
+    {
+      "date_day": "2025-06-09",
+      "agency": "DEP",
+      "arrivals": "492",
+      "closures": "623",
+      "cohort_backlog": "2103"
+    },
+    {
+      "date_day": "2025-06-10",
+      "agency": "DEP",
+      "arrivals": "555",
+      "closures": "553",
+      "cohort_backlog": "2105"
+    },
+    {
+      "date_day": "2025-06-11",
+      "agency": "DEP",
+      "arrivals": "523",
+      "closures": "606",
+      "cohort_backlog": "2022"
+    },
+    {
+      "date_day": "2025-06-12",
+      "agency": "DEP",
+      "arrivals": "603",
+      "closures": "627",
+      "cohort_backlog": "1998"
+    },
+    {
+      "date_day": "2025-06-13",
+      "agency": "DEP",
+      "arrivals": "525",
+      "closures": "600",
+      "cohort_backlog": "1923"
+    },
+    {
+      "date_day": "2025-06-14",
+      "agency": "DEP",
+      "arrivals": "311",
+      "closures": "310",
+      "cohort_backlog": "1924"
+    },
+    {
+      "date_day": "2025-06-15",
+      "agency": "DEP",
+      "arrivals": "264",
+      "closures": "160",
+      "cohort_backlog": "2028"
+    },
+    {
+      "date_day": "2025-06-16",
+      "agency": "DEP",
+      "arrivals": "439",
+      "closures": "580",
+      "cohort_backlog": "1887"
+    },
+    {
+      "date_day": "2025-06-17",
+      "agency": "DEP",
+      "arrivals": "510",
+      "closures": "587",
+      "cohort_backlog": "1810"
+    },
+    {
+      "date_day": "2025-06-18",
+      "agency": "DEP",
+      "arrivals": "528",
+      "closures": "547",
+      "cohort_backlog": "1791"
+    },
+    {
+      "date_day": "2025-06-19",
+      "agency": "DEP",
+      "arrivals": "627",
+      "closures": "276",
+      "cohort_backlog": "2142"
+    },
+    {
+      "date_day": "2025-06-20",
+      "agency": "DEP",
+      "arrivals": "631",
+      "closures": "718",
+      "cohort_backlog": "2055"
+    },
+    {
+      "date_day": "2025-06-21",
+      "agency": "DEP",
+      "arrivals": "635",
+      "closures": "374",
+      "cohort_backlog": "2316"
+    },
+    {
+      "date_day": "2025-06-22",
+      "agency": "DEP",
+      "arrivals": "649",
+      "closures": "644",
+      "cohort_backlog": "2321"
+    },
+    {
+      "date_day": "2025-06-23",
+      "agency": "DEP",
+      "arrivals": "2158",
+      "closures": "2238",
+      "cohort_backlog": "2241"
+    },
+    {
+      "date_day": "2025-06-24",
+      "agency": "DEP",
+      "arrivals": "3721",
+      "closures": "3871",
+      "cohort_backlog": "2091"
+    },
+    {
+      "date_day": "2025-06-25",
+      "agency": "DEP",
+      "arrivals": "3120",
+      "closures": "2802",
+      "cohort_backlog": "2409"
+    },
+    {
+      "date_day": "2025-06-26",
+      "agency": "DEP",
+      "arrivals": "1342",
+      "closures": "1444",
+      "cohort_backlog": "2307"
+    },
+    {
+      "date_day": "2025-06-27",
+      "agency": "DEP",
+      "arrivals": "686",
+      "closures": "727",
+      "cohort_backlog": "2266"
+    },
+    {
+      "date_day": "2025-06-28",
+      "agency": "DEP",
+      "arrivals": "535",
+      "closures": "297",
+      "cohort_backlog": "2504"
+    },
+    {
+      "date_day": "2025-06-29",
+      "agency": "DEP",
+      "arrivals": "857",
+      "closures": "415",
+      "cohort_backlog": "2946"
+    },
+    {
+      "date_day": "2025-06-30",
+      "agency": "DEP",
+      "arrivals": "1000",
+      "closures": "1159",
+      "cohort_backlog": "2787"
+    },
+    {
+      "date_day": "2025-04-01",
+      "agency": "DOT",
+      "arrivals": "700",
+      "closures": "187",
+      "cohort_backlog": "513"
+    },
+    {
+      "date_day": "2025-04-02",
+      "agency": "DOT",
+      "arrivals": "699",
+      "closures": "354",
+      "cohort_backlog": "858"
+    },
+    {
+      "date_day": "2025-04-03",
+      "agency": "DOT",
+      "arrivals": "670",
+      "closures": "386",
+      "cohort_backlog": "1142"
+    },
+    {
+      "date_day": "2025-04-04",
+      "agency": "DOT",
+      "arrivals": "700",
+      "closures": "362",
+      "cohort_backlog": "1480"
+    },
+    {
+      "date_day": "2025-04-05",
+      "agency": "DOT",
+      "arrivals": "385",
+      "closures": "140",
+      "cohort_backlog": "1725"
+    },
+    {
+      "date_day": "2025-04-06",
+      "agency": "DOT",
+      "arrivals": "355",
+      "closures": "146",
+      "cohort_backlog": "1934"
+    },
+    {
+      "date_day": "2025-04-07",
+      "agency": "DOT",
+      "arrivals": "728",
+      "closures": "606",
+      "cohort_backlog": "2056"
+    },
+    {
+      "date_day": "2025-04-08",
+      "agency": "DOT",
+      "arrivals": "723",
+      "closures": "611",
+      "cohort_backlog": "2168"
+    },
+    {
+      "date_day": "2025-04-09",
+      "agency": "DOT",
+      "arrivals": "729",
+      "closures": "602",
+      "cohort_backlog": "2295"
+    },
+    {
+      "date_day": "2025-04-10",
+      "agency": "DOT",
+      "arrivals": "722",
+      "closures": "664",
+      "cohort_backlog": "2353"
+    },
+    {
+      "date_day": "2025-04-11",
+      "agency": "DOT",
+      "arrivals": "537",
+      "closures": "631",
+      "cohort_backlog": "2259"
+    },
+    {
+      "date_day": "2025-04-12",
+      "agency": "DOT",
+      "arrivals": "439",
+      "closures": "205",
+      "cohort_backlog": "2493"
+    },
+    {
+      "date_day": "2025-04-13",
+      "agency": "DOT",
+      "arrivals": "416",
+      "closures": "139",
+      "cohort_backlog": "2770"
+    },
+    {
+      "date_day": "2025-04-14",
+      "agency": "DOT",
+      "arrivals": "725",
+      "closures": "624",
+      "cohort_backlog": "2871"
+    },
+    {
+      "date_day": "2025-04-15",
+      "agency": "DOT",
+      "arrivals": "698",
+      "closures": "715",
+      "cohort_backlog": "2854"
+    },
+    {
+      "date_day": "2025-04-16",
+      "agency": "DOT",
+      "arrivals": "732",
+      "closures": "801",
+      "cohort_backlog": "2785"
+    },
+    {
+      "date_day": "2025-04-17",
+      "agency": "DOT",
+      "arrivals": "588",
+      "closures": "590",
+      "cohort_backlog": "2783"
+    },
+    {
+      "date_day": "2025-04-18",
+      "agency": "DOT",
+      "arrivals": "536",
+      "closures": "549",
+      "cohort_backlog": "2770"
+    },
+    {
+      "date_day": "2025-04-19",
+      "agency": "DOT",
+      "arrivals": "356",
+      "closures": "119",
+      "cohort_backlog": "3007"
+    },
+    {
+      "date_day": "2025-04-20",
+      "agency": "DOT",
+      "arrivals": "304",
+      "closures": "87",
+      "cohort_backlog": "3224"
+    },
+    {
+      "date_day": "2025-04-21",
+      "agency": "DOT",
+      "arrivals": "663",
+      "closures": "597",
+      "cohort_backlog": "3290"
+    },
+    {
+      "date_day": "2025-04-22",
+      "agency": "DOT",
+      "arrivals": "726",
+      "closures": "751",
+      "cohort_backlog": "3265"
+    },
+    {
+      "date_day": "2025-04-23",
+      "agency": "DOT",
+      "arrivals": "742",
+      "closures": "791",
+      "cohort_backlog": "3216"
+    },
+    {
+      "date_day": "2025-04-24",
+      "agency": "DOT",
+      "arrivals": "670",
+      "closures": "617",
+      "cohort_backlog": "3269"
+    },
+    {
+      "date_day": "2025-04-25",
+      "agency": "DOT",
+      "arrivals": "719",
+      "closures": "560",
+      "cohort_backlog": "3428"
+    },
+    {
+      "date_day": "2025-04-26",
+      "agency": "DOT",
+      "arrivals": "468",
+      "closures": "216",
+      "cohort_backlog": "3680"
+    },
+    {
+      "date_day": "2025-04-27",
+      "agency": "DOT",
+      "arrivals": "334",
+      "closures": "114",
+      "cohort_backlog": "3900"
+    },
+    {
+      "date_day": "2025-04-28",
+      "agency": "DOT",
+      "arrivals": "709",
+      "closures": "653",
+      "cohort_backlog": "3956"
+    },
+    {
+      "date_day": "2025-04-29",
+      "agency": "DOT",
+      "arrivals": "695",
+      "closures": "635",
+      "cohort_backlog": "4016"
+    },
+    {
+      "date_day": "2025-04-30",
+      "agency": "DOT",
+      "arrivals": "699",
+      "closures": "886",
+      "cohort_backlog": "3829"
+    },
+    {
+      "date_day": "2025-05-01",
+      "agency": "DOT",
+      "arrivals": "725",
+      "closures": "738",
+      "cohort_backlog": "3816"
+    },
+    {
+      "date_day": "2025-05-02",
+      "agency": "DOT",
+      "arrivals": "660",
+      "closures": "613",
+      "cohort_backlog": "3863"
+    },
+    {
+      "date_day": "2025-05-03",
+      "agency": "DOT",
+      "arrivals": "380",
+      "closures": "137",
+      "cohort_backlog": "4106"
+    },
+    {
+      "date_day": "2025-05-04",
+      "agency": "DOT",
+      "arrivals": "380",
+      "closures": "140",
+      "cohort_backlog": "4346"
+    },
+    {
+      "date_day": "2025-05-05",
+      "agency": "DOT",
+      "arrivals": "593",
+      "closures": "581",
+      "cohort_backlog": "4358"
+    },
+    {
+      "date_day": "2025-05-06",
+      "agency": "DOT",
+      "arrivals": "754",
+      "closures": "798",
+      "cohort_backlog": "4314"
+    },
+    {
+      "date_day": "2025-05-07",
+      "agency": "DOT",
+      "arrivals": "732",
+      "closures": "900",
+      "cohort_backlog": "4146"
+    },
+    {
+      "date_day": "2025-05-08",
+      "agency": "DOT",
+      "arrivals": "722",
+      "closures": "656",
+      "cohort_backlog": "4212"
+    },
+    {
+      "date_day": "2025-05-09",
+      "agency": "DOT",
+      "arrivals": "596",
+      "closures": "659",
+      "cohort_backlog": "4149"
+    },
+    {
+      "date_day": "2025-05-10",
+      "agency": "DOT",
+      "arrivals": "432",
+      "closures": "173",
+      "cohort_backlog": "4408"
+    },
+    {
+      "date_day": "2025-05-11",
+      "agency": "DOT",
+      "arrivals": "387",
+      "closures": "125",
+      "cohort_backlog": "4670"
+    },
+    {
+      "date_day": "2025-05-12",
+      "agency": "DOT",
+      "arrivals": "901",
+      "closures": "764",
+      "cohort_backlog": "4807"
+    },
+    {
+      "date_day": "2025-05-13",
+      "agency": "DOT",
+      "arrivals": "744",
+      "closures": "806",
+      "cohort_backlog": "4745"
+    },
+    {
+      "date_day": "2025-05-14",
+      "agency": "DOT",
+      "arrivals": "942",
+      "closures": "1093",
+      "cohort_backlog": "4594"
+    },
+    {
+      "date_day": "2025-05-15",
+      "agency": "DOT",
+      "arrivals": "704",
+      "closures": "705",
+      "cohort_backlog": "4593"
+    },
+    {
+      "date_day": "2025-05-16",
+      "agency": "DOT",
+      "arrivals": "767",
+      "closures": "694",
+      "cohort_backlog": "4666"
+    },
+    {
+      "date_day": "2025-05-17",
+      "agency": "DOT",
+      "arrivals": "485",
+      "closures": "189",
+      "cohort_backlog": "4962"
+    },
+    {
+      "date_day": "2025-05-18",
+      "agency": "DOT",
+      "arrivals": "370",
+      "closures": "128",
+      "cohort_backlog": "5204"
+    },
+    {
+      "date_day": "2025-05-19",
+      "agency": "DOT",
+      "arrivals": "781",
+      "closures": "717",
+      "cohort_backlog": "5268"
+    },
+    {
+      "date_day": "2025-05-20",
+      "agency": "DOT",
+      "arrivals": "797",
+      "closures": "913",
+      "cohort_backlog": "5152"
+    },
+    {
+      "date_day": "2025-05-21",
+      "agency": "DOT",
+      "arrivals": "659",
+      "closures": "843",
+      "cohort_backlog": "4968"
+    },
+    {
+      "date_day": "2025-05-22",
+      "agency": "DOT",
+      "arrivals": "597",
+      "closures": "742",
+      "cohort_backlog": "4823"
+    },
+    {
+      "date_day": "2025-05-23",
+      "agency": "DOT",
+      "arrivals": "671",
+      "closures": "579",
+      "cohort_backlog": "4915"
+    },
+    {
+      "date_day": "2025-05-24",
+      "agency": "DOT",
+      "arrivals": "340",
+      "closures": "167",
+      "cohort_backlog": "5088"
+    },
+    {
+      "date_day": "2025-05-25",
+      "agency": "DOT",
+      "arrivals": "328",
+      "closures": "132",
+      "cohort_backlog": "5284"
+    },
+    {
+      "date_day": "2025-05-26",
+      "agency": "DOT",
+      "arrivals": "329",
+      "closures": "103",
+      "cohort_backlog": "5510"
+    },
+    {
+      "date_day": "2025-05-27",
+      "agency": "DOT",
+      "arrivals": "683",
+      "closures": "778",
+      "cohort_backlog": "5415"
+    },
+    {
+      "date_day": "2025-05-28",
+      "agency": "DOT",
+      "arrivals": "750",
+      "closures": "896",
+      "cohort_backlog": "5269"
+    },
+    {
+      "date_day": "2025-05-29",
+      "agency": "DOT",
+      "arrivals": "802",
+      "closures": "823",
+      "cohort_backlog": "5248"
+    },
+    {
+      "date_day": "2025-05-30",
+      "agency": "DOT",
+      "arrivals": "672",
+      "closures": "692",
+      "cohort_backlog": "5228"
+    },
+    {
+      "date_day": "2025-05-31",
+      "agency": "DOT",
+      "arrivals": "494",
+      "closures": "192",
+      "cohort_backlog": "5530"
+    },
+    {
+      "date_day": "2025-06-01",
+      "agency": "DOT",
+      "arrivals": "350",
+      "closures": "101",
+      "cohort_backlog": "5779"
+    },
+    {
+      "date_day": "2025-06-02",
+      "agency": "DOT",
+      "arrivals": "696",
+      "closures": "648",
+      "cohort_backlog": "5827"
+    },
+    {
+      "date_day": "2025-06-03",
+      "agency": "DOT",
+      "arrivals": "829",
+      "closures": "692",
+      "cohort_backlog": "5964"
+    },
+    {
+      "date_day": "2025-06-04",
+      "agency": "DOT",
+      "arrivals": "830",
+      "closures": "918",
+      "cohort_backlog": "5876"
+    },
+    {
+      "date_day": "2025-06-05",
+      "agency": "DOT",
+      "arrivals": "712",
+      "closures": "788",
+      "cohort_backlog": "5800"
+    },
+    {
+      "date_day": "2025-06-06",
+      "agency": "DOT",
+      "arrivals": "658",
+      "closures": "708",
+      "cohort_backlog": "5750"
+    },
+    {
+      "date_day": "2025-06-07",
+      "agency": "DOT",
+      "arrivals": "392",
+      "closures": "159",
+      "cohort_backlog": "5983"
+    },
+    {
+      "date_day": "2025-06-08",
+      "agency": "DOT",
+      "arrivals": "384",
+      "closures": "128",
+      "cohort_backlog": "6239"
+    },
+    {
+      "date_day": "2025-06-09",
+      "agency": "DOT",
+      "arrivals": "671",
+      "closures": "697",
+      "cohort_backlog": "6213"
+    },
+    {
+      "date_day": "2025-06-10",
+      "agency": "DOT",
+      "arrivals": "744",
+      "closures": "768",
+      "cohort_backlog": "6189"
+    },
+    {
+      "date_day": "2025-06-11",
+      "agency": "DOT",
+      "arrivals": "859",
+      "closures": "909",
+      "cohort_backlog": "6139"
+    },
+    {
+      "date_day": "2025-06-12",
+      "agency": "DOT",
+      "arrivals": "797",
+      "closures": "777",
+      "cohort_backlog": "6159"
+    },
+    {
+      "date_day": "2025-06-13",
+      "agency": "DOT",
+      "arrivals": "679",
+      "closures": "816",
+      "cohort_backlog": "6022"
+    },
+    {
+      "date_day": "2025-06-14",
+      "agency": "DOT",
+      "arrivals": "340",
+      "closures": "151",
+      "cohort_backlog": "6211"
+    },
+    {
+      "date_day": "2025-06-15",
+      "agency": "DOT",
+      "arrivals": "330",
+      "closures": "99",
+      "cohort_backlog": "6442"
+    },
+    {
+      "date_day": "2025-06-16",
+      "agency": "DOT",
+      "arrivals": "756",
+      "closures": "797",
+      "cohort_backlog": "6401"
+    },
+    {
+      "date_day": "2025-06-17",
+      "agency": "DOT",
+      "arrivals": "802",
+      "closures": "947",
+      "cohort_backlog": "6256"
+    },
+    {
+      "date_day": "2025-06-18",
+      "agency": "DOT",
+      "arrivals": "733",
+      "closures": "1025",
+      "cohort_backlog": "5964"
+    },
+    {
+      "date_day": "2025-06-19",
+      "agency": "DOT",
+      "arrivals": "771",
+      "closures": "527",
+      "cohort_backlog": "6208"
+    },
+    {
+      "date_day": "2025-06-20",
+      "agency": "DOT",
+      "arrivals": "728",
+      "closures": "812",
+      "cohort_backlog": "6124"
+    },
+    {
+      "date_day": "2025-06-21",
+      "agency": "DOT",
+      "arrivals": "363",
+      "closures": "154",
+      "cohort_backlog": "6333"
+    },
+    {
+      "date_day": "2025-06-22",
+      "agency": "DOT",
+      "arrivals": "385",
+      "closures": "131",
+      "cohort_backlog": "6587"
+    },
+    {
+      "date_day": "2025-06-23",
+      "agency": "DOT",
+      "arrivals": "810",
+      "closures": "964",
+      "cohort_backlog": "6433"
+    },
+    {
+      "date_day": "2025-06-24",
+      "agency": "DOT",
+      "arrivals": "952",
+      "closures": "922",
+      "cohort_backlog": "6463"
+    },
+    {
+      "date_day": "2025-06-25",
+      "agency": "DOT",
+      "arrivals": "1050",
+      "closures": "1127",
+      "cohort_backlog": "6386"
+    },
+    {
+      "date_day": "2025-06-26",
+      "agency": "DOT",
+      "arrivals": "941",
+      "closures": "979",
+      "cohort_backlog": "6348"
+    },
+    {
+      "date_day": "2025-06-27",
+      "agency": "DOT",
+      "arrivals": "725",
+      "closures": "892",
+      "cohort_backlog": "6181"
+    },
+    {
+      "date_day": "2025-06-28",
+      "agency": "DOT",
+      "arrivals": "378",
+      "closures": "160",
+      "cohort_backlog": "6399"
+    },
+    {
+      "date_day": "2025-06-29",
+      "agency": "DOT",
+      "arrivals": "361",
+      "closures": "111",
+      "cohort_backlog": "6649"
+    },
+    {
+      "date_day": "2025-06-30",
+      "agency": "DOT",
+      "arrivals": "686",
+      "closures": "737",
+      "cohort_backlog": "6598"
+    },
+    {
+      "date_day": "2025-04-01",
+      "agency": "DSNY",
+      "arrivals": "883",
+      "closures": "199",
+      "cohort_backlog": "684"
+    },
+    {
+      "date_day": "2025-04-02",
+      "agency": "DSNY",
+      "arrivals": "1094",
+      "closures": "572",
+      "cohort_backlog": "1206"
+    },
+    {
+      "date_day": "2025-04-03",
+      "agency": "DSNY",
+      "arrivals": "1186",
+      "closures": "688",
+      "cohort_backlog": "1704"
+    },
+    {
+      "date_day": "2025-04-04",
+      "agency": "DSNY",
+      "arrivals": "1132",
+      "closures": "711",
+      "cohort_backlog": "2125"
+    },
+    {
+      "date_day": "2025-04-05",
+      "agency": "DSNY",
+      "arrivals": "822",
+      "closures": "966",
+      "cohort_backlog": "1981"
+    },
+    {
+      "date_day": "2025-04-06",
+      "agency": "DSNY",
+      "arrivals": "826",
+      "closures": "142",
+      "cohort_backlog": "2665"
+    },
+    {
+      "date_day": "2025-04-07",
+      "agency": "DSNY",
+      "arrivals": "888",
+      "closures": "1211",
+      "cohort_backlog": "2342"
+    },
+    {
+      "date_day": "2025-04-08",
+      "agency": "DSNY",
+      "arrivals": "1078",
+      "closures": "918",
+      "cohort_backlog": "2502"
+    },
+    {
+      "date_day": "2025-04-09",
+      "agency": "DSNY",
+      "arrivals": "1093",
+      "closures": "1111",
+      "cohort_backlog": "2484"
+    },
+    {
+      "date_day": "2025-04-10",
+      "agency": "DSNY",
+      "arrivals": "1139",
+      "closures": "881",
+      "cohort_backlog": "2742"
+    },
+    {
+      "date_day": "2025-04-11",
+      "agency": "DSNY",
+      "arrivals": "1012",
+      "closures": "914",
+      "cohort_backlog": "2840"
+    },
+    {
+      "date_day": "2025-04-12",
+      "agency": "DSNY",
+      "arrivals": "635",
+      "closures": "891",
+      "cohort_backlog": "2584"
+    },
+    {
+      "date_day": "2025-04-13",
+      "agency": "DSNY",
+      "arrivals": "784",
+      "closures": "87",
+      "cohort_backlog": "3281"
+    },
+    {
+      "date_day": "2025-04-14",
+      "agency": "DSNY",
+      "arrivals": "1004",
+      "closures": "1135",
+      "cohort_backlog": "3150"
+    },
+    {
+      "date_day": "2025-04-15",
+      "agency": "DSNY",
+      "arrivals": "1199",
+      "closures": "1078",
+      "cohort_backlog": "3271"
+    },
+    {
+      "date_day": "2025-04-16",
+      "agency": "DSNY",
+      "arrivals": "1180",
+      "closures": "1383",
+      "cohort_backlog": "3068"
+    },
+    {
+      "date_day": "2025-04-17",
+      "agency": "DSNY",
+      "arrivals": "1028",
+      "closures": "1014",
+      "cohort_backlog": "3082"
+    },
+    {
+      "date_day": "2025-04-18",
+      "agency": "DSNY",
+      "arrivals": "928",
+      "closures": "1068",
+      "cohort_backlog": "2942"
+    },
+    {
+      "date_day": "2025-04-19",
+      "agency": "DSNY",
+      "arrivals": "746",
+      "closures": "750",
+      "cohort_backlog": "2938"
+    },
+    {
+      "date_day": "2025-04-20",
+      "agency": "DSNY",
+      "arrivals": "651",
+      "closures": "150",
+      "cohort_backlog": "3439"
+    },
+    {
+      "date_day": "2025-04-21",
+      "agency": "DSNY",
+      "arrivals": "924",
+      "closures": "995",
+      "cohort_backlog": "3368"
+    },
+    {
+      "date_day": "2025-04-22",
+      "agency": "DSNY",
+      "arrivals": "1079",
+      "closures": "1018",
+      "cohort_backlog": "3429"
+    },
+    {
+      "date_day": "2025-04-23",
+      "agency": "DSNY",
+      "arrivals": "1075",
+      "closures": "1188",
+      "cohort_backlog": "3316"
+    },
+    {
+      "date_day": "2025-04-24",
+      "agency": "DSNY",
+      "arrivals": "1182",
+      "closures": "1047",
+      "cohort_backlog": "3451"
+    },
+    {
+      "date_day": "2025-04-25",
+      "agency": "DSNY",
+      "arrivals": "1159",
+      "closures": "890",
+      "cohort_backlog": "3720"
+    },
+    {
+      "date_day": "2025-04-26",
+      "agency": "DSNY",
+      "arrivals": "766",
+      "closures": "1037",
+      "cohort_backlog": "3449"
+    },
+    {
+      "date_day": "2025-04-27",
+      "agency": "DSNY",
+      "arrivals": "684",
+      "closures": "87",
+      "cohort_backlog": "4046"
+    },
+    {
+      "date_day": "2025-04-28",
+      "agency": "DSNY",
+      "arrivals": "1020",
+      "closures": "1308",
+      "cohort_backlog": "3758"
+    },
+    {
+      "date_day": "2025-04-29",
+      "agency": "DSNY",
+      "arrivals": "1138",
+      "closures": "1041",
+      "cohort_backlog": "3855"
+    },
+    {
+      "date_day": "2025-04-30",
+      "agency": "DSNY",
+      "arrivals": "1148",
+      "closures": "970",
+      "cohort_backlog": "4033"
+    },
+    {
+      "date_day": "2025-05-01",
+      "agency": "DSNY",
+      "arrivals": "1115",
+      "closures": "1114",
+      "cohort_backlog": "4034"
+    },
+    {
+      "date_day": "2025-05-02",
+      "agency": "DSNY",
+      "arrivals": "1138",
+      "closures": "905",
+      "cohort_backlog": "4267"
+    },
+    {
+      "date_day": "2025-05-03",
+      "agency": "DSNY",
+      "arrivals": "802",
+      "closures": "1376",
+      "cohort_backlog": "3693"
+    },
+    {
+      "date_day": "2025-05-04",
+      "agency": "DSNY",
+      "arrivals": "747",
+      "closures": "111",
+      "cohort_backlog": "4329"
+    },
+    {
+      "date_day": "2025-05-05",
+      "agency": "DSNY",
+      "arrivals": "839",
+      "closures": "1204",
+      "cohort_backlog": "3964"
+    },
+    {
+      "date_day": "2025-05-06",
+      "agency": "DSNY",
+      "arrivals": "1009",
+      "closures": "982",
+      "cohort_backlog": "3991"
+    },
+    {
+      "date_day": "2025-05-07",
+      "agency": "DSNY",
+      "arrivals": "1140",
+      "closures": "1292",
+      "cohort_backlog": "3839"
+    },
+    {
+      "date_day": "2025-05-08",
+      "agency": "DSNY",
+      "arrivals": "1226",
+      "closures": "1303",
+      "cohort_backlog": "3762"
+    },
+    {
+      "date_day": "2025-05-09",
+      "agency": "DSNY",
+      "arrivals": "867",
+      "closures": "1119",
+      "cohort_backlog": "3510"
+    },
+    {
+      "date_day": "2025-05-10",
+      "agency": "DSNY",
+      "arrivals": "780",
+      "closures": "884",
+      "cohort_backlog": "3406"
+    },
+    {
+      "date_day": "2025-05-11",
+      "agency": "DSNY",
+      "arrivals": "666",
+      "closures": "134",
+      "cohort_backlog": "3938"
+    },
+    {
+      "date_day": "2025-05-12",
+      "agency": "DSNY",
+      "arrivals": "1065",
+      "closures": "1530",
+      "cohort_backlog": "3473"
+    },
+    {
+      "date_day": "2025-05-13",
+      "agency": "DSNY",
+      "arrivals": "1102",
+      "closures": "1157",
+      "cohort_backlog": "3418"
+    },
+    {
+      "date_day": "2025-05-14",
+      "agency": "DSNY",
+      "arrivals": "856",
+      "closures": "1027",
+      "cohort_backlog": "3247"
+    },
+    {
+      "date_day": "2025-05-15",
+      "agency": "DSNY",
+      "arrivals": "1092",
+      "closures": "884",
+      "cohort_backlog": "3455"
+    },
+    {
+      "date_day": "2025-05-16",
+      "agency": "DSNY",
+      "arrivals": "1022",
+      "closures": "826",
+      "cohort_backlog": "3651"
+    },
+    {
+      "date_day": "2025-05-17",
+      "agency": "DSNY",
+      "arrivals": "827",
+      "closures": "1164",
+      "cohort_backlog": "3314"
+    },
+    {
+      "date_day": "2025-05-18",
+      "agency": "DSNY",
+      "arrivals": "731",
+      "closures": "151",
+      "cohort_backlog": "3894"
+    },
+    {
+      "date_day": "2025-05-19",
+      "agency": "DSNY",
+      "arrivals": "1022",
+      "closures": "1238",
+      "cohort_backlog": "3678"
+    },
+    {
+      "date_day": "2025-05-20",
+      "agency": "DSNY",
+      "arrivals": "1115",
+      "closures": "1221",
+      "cohort_backlog": "3572"
+    },
+    {
+      "date_day": "2025-05-21",
+      "agency": "DSNY",
+      "arrivals": "882",
+      "closures": "970",
+      "cohort_backlog": "3484"
+    },
+    {
+      "date_day": "2025-05-22",
+      "agency": "DSNY",
+      "arrivals": "764",
+      "closures": "934",
+      "cohort_backlog": "3314"
+    },
+    {
+      "date_day": "2025-05-23",
+      "agency": "DSNY",
+      "arrivals": "1042",
+      "closures": "827",
+      "cohort_backlog": "3529"
+    },
+    {
+      "date_day": "2025-05-24",
+      "agency": "DSNY",
+      "arrivals": "673",
+      "closures": "871",
+      "cohort_backlog": "3331"
+    },
+    {
+      "date_day": "2025-05-25",
+      "agency": "DSNY",
+      "arrivals": "664",
+      "closures": "113",
+      "cohort_backlog": "3882"
+    },
+    {
+      "date_day": "2025-05-26",
+      "agency": "DSNY",
+      "arrivals": "573",
+      "closures": "181",
+      "cohort_backlog": "4274"
+    },
+    {
+      "date_day": "2025-05-27",
+      "agency": "DSNY",
+      "arrivals": "1066",
+      "closures": "1361",
+      "cohort_backlog": "3979"
+    },
+    {
+      "date_day": "2025-05-28",
+      "agency": "DSNY",
+      "arrivals": "926",
+      "closures": "1190",
+      "cohort_backlog": "3715"
+    },
+    {
+      "date_day": "2025-05-29",
+      "agency": "DSNY",
+      "arrivals": "903",
+      "closures": "920",
+      "cohort_backlog": "3698"
+    },
+    {
+      "date_day": "2025-05-30",
+      "agency": "DSNY",
+      "arrivals": "1248",
+      "closures": "862",
+      "cohort_backlog": "4084"
+    },
+    {
+      "date_day": "2025-05-31",
+      "agency": "DSNY",
+      "arrivals": "850",
+      "closures": "981",
+      "cohort_backlog": "3953"
+    },
+    {
+      "date_day": "2025-06-01",
+      "agency": "DSNY",
+      "arrivals": "786",
+      "closures": "159",
+      "cohort_backlog": "4580"
+    },
+    {
+      "date_day": "2025-06-02",
+      "agency": "DSNY",
+      "arrivals": "1001",
+      "closures": "1501",
+      "cohort_backlog": "4080"
+    },
+    {
+      "date_day": "2025-06-03",
+      "agency": "DSNY",
+      "arrivals": "1170",
+      "closures": "1636",
+      "cohort_backlog": "3614"
+    },
+    {
+      "date_day": "2025-06-04",
+      "agency": "DSNY",
+      "arrivals": "1214",
+      "closures": "1197",
+      "cohort_backlog": "3631"
+    },
+    {
+      "date_day": "2025-06-05",
+      "agency": "DSNY",
+      "arrivals": "1129",
+      "closures": "1073",
+      "cohort_backlog": "3687"
+    },
+    {
+      "date_day": "2025-06-06",
+      "agency": "DSNY",
+      "arrivals": "1240",
+      "closures": "1058",
+      "cohort_backlog": "3869"
+    },
+    {
+      "date_day": "2025-06-07",
+      "agency": "DSNY",
+      "arrivals": "833",
+      "closures": "1196",
+      "cohort_backlog": "3506"
+    },
+    {
+      "date_day": "2025-06-08",
+      "agency": "DSNY",
+      "arrivals": "771",
+      "closures": "94",
+      "cohort_backlog": "4183"
+    },
+    {
+      "date_day": "2025-06-09",
+      "agency": "DSNY",
+      "arrivals": "1010",
+      "closures": "1327",
+      "cohort_backlog": "3866"
+    },
+    {
+      "date_day": "2025-06-10",
+      "agency": "DSNY",
+      "arrivals": "1156",
+      "closures": "1119",
+      "cohort_backlog": "3903"
+    },
+    {
+      "date_day": "2025-06-11",
+      "agency": "DSNY",
+      "arrivals": "1160",
+      "closures": "1274",
+      "cohort_backlog": "3789"
+    },
+    {
+      "date_day": "2025-06-12",
+      "agency": "DSNY",
+      "arrivals": "1228",
+      "closures": "801",
+      "cohort_backlog": "4216"
+    },
+    {
+      "date_day": "2025-06-13",
+      "agency": "DSNY",
+      "arrivals": "1252",
+      "closures": "1594",
+      "cohort_backlog": "3874"
+    },
+    {
+      "date_day": "2025-06-14",
+      "agency": "DSNY",
+      "arrivals": "638",
+      "closures": "1160",
+      "cohort_backlog": "3352"
+    },
+    {
+      "date_day": "2025-06-15",
+      "agency": "DSNY",
+      "arrivals": "650",
+      "closures": "74",
+      "cohort_backlog": "3928"
+    },
+    {
+      "date_day": "2025-06-16",
+      "agency": "DSNY",
+      "arrivals": "1107",
+      "closures": "1197",
+      "cohort_backlog": "3838"
+    },
+    {
+      "date_day": "2025-06-17",
+      "agency": "DSNY",
+      "arrivals": "1169",
+      "closures": "1177",
+      "cohort_backlog": "3830"
+    },
+    {
+      "date_day": "2025-06-18",
+      "agency": "DSNY",
+      "arrivals": "1047",
+      "closures": "1219",
+      "cohort_backlog": "3658"
+    },
+    {
+      "date_day": "2025-06-19",
+      "agency": "DSNY",
+      "arrivals": "763",
+      "closures": "124",
+      "cohort_backlog": "4297"
+    },
+    {
+      "date_day": "2025-06-20",
+      "agency": "DSNY",
+      "arrivals": "905",
+      "closures": "1232",
+      "cohort_backlog": "3970"
+    },
+    {
+      "date_day": "2025-06-21",
+      "agency": "DSNY",
+      "arrivals": "639",
+      "closures": "1037",
+      "cohort_backlog": "3572"
+    },
+    {
+      "date_day": "2025-06-22",
+      "agency": "DSNY",
+      "arrivals": "669",
+      "closures": "154",
+      "cohort_backlog": "4087"
+    },
+    {
+      "date_day": "2025-06-23",
+      "agency": "DSNY",
+      "arrivals": "988",
+      "closures": "1461",
+      "cohort_backlog": "3614"
+    },
+    {
+      "date_day": "2025-06-24",
+      "agency": "DSNY",
+      "arrivals": "935",
+      "closures": "1106",
+      "cohort_backlog": "3443"
+    },
+    {
+      "date_day": "2025-06-25",
+      "agency": "DSNY",
+      "arrivals": "974",
+      "closures": "832",
+      "cohort_backlog": "3585"
+    },
+    {
+      "date_day": "2025-06-26",
+      "agency": "DSNY",
+      "arrivals": "1233",
+      "closures": "801",
+      "cohort_backlog": "4017"
+    },
+    {
+      "date_day": "2025-06-27",
+      "agency": "DSNY",
+      "arrivals": "1238",
+      "closures": "900",
+      "cohort_backlog": "4355"
+    },
+    {
+      "date_day": "2025-06-28",
+      "agency": "DSNY",
+      "arrivals": "799",
+      "closures": "1166",
+      "cohort_backlog": "3988"
+    },
+    {
+      "date_day": "2025-06-29",
+      "agency": "DSNY",
+      "arrivals": "834",
+      "closures": "111",
+      "cohort_backlog": "4711"
+    },
+    {
+      "date_day": "2025-06-30",
+      "agency": "DSNY",
+      "arrivals": "1119",
+      "closures": "1581",
+      "cohort_backlog": "4249"
+    }
+  ],
+  "backtest": [
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-20",
+      "actual": "649.0",
+      "prediction": "452.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-21",
+      "actual": "426.0",
+      "prediction": "530.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-22",
+      "actual": "507.0",
+      "prediction": "535.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-23",
+      "actual": "405.0",
+      "prediction": "442.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-24",
+      "actual": "305.0",
+      "prediction": "413.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-25",
+      "actual": "269.0",
+      "prediction": "342.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-26",
+      "actual": "356.0",
+      "prediction": "508.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-27",
+      "actual": "705.0",
+      "prediction": "649.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-28",
+      "actual": "492.0",
+      "prediction": "426.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-29",
+      "actual": "482.0",
+      "prediction": "507.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-30",
+      "actual": "460.0",
+      "prediction": "405.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-31",
+      "actual": "298.0",
+      "prediction": "305.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-01",
+      "actual": "325.0",
+      "prediction": "269.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-02",
+      "actual": "470.0",
+      "prediction": "356.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-03",
+      "actual": "476.0",
+      "prediction": "705.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-04",
+      "actual": "478.0",
+      "prediction": "492.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-05",
+      "actual": "599.0",
+      "prediction": "482.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-06",
+      "actual": "574.0",
+      "prediction": "460.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-07",
+      "actual": "433.0",
+      "prediction": "298.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-08",
+      "actual": "356.0",
+      "prediction": "325.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-09",
+      "actual": "492.0",
+      "prediction": "470.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-10",
+      "actual": "555.0",
+      "prediction": "476.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-11",
+      "actual": "523.0",
+      "prediction": "478.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-12",
+      "actual": "603.0",
+      "prediction": "599.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-13",
+      "actual": "525.0",
+      "prediction": "574.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-14",
+      "actual": "311.0",
+      "prediction": "433.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-15",
+      "actual": "264.0",
+      "prediction": "356.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-16",
+      "actual": "439.0",
+      "prediction": "492.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-20",
+      "actual": "649.0",
+      "prediction": "493.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-21",
+      "actual": "426.0",
+      "prediction": "470.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-22",
+      "actual": "507.0",
+      "prediction": "524.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-23",
+      "actual": "405.0",
+      "prediction": "466.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-24",
+      "actual": "305.0",
+      "prediction": "369.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-25",
+      "actual": "269.0",
+      "prediction": "313.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-26",
+      "actual": "356.0",
+      "prediction": "517.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-27",
+      "actual": "705.0",
+      "prediction": "514.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-28",
+      "actual": "492.0",
+      "prediction": "472.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-29",
+      "actual": "482.0",
+      "prediction": "516.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-30",
+      "actual": "460.0",
+      "prediction": "435.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-31",
+      "actual": "298.0",
+      "prediction": "360.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-01",
+      "actual": "325.0",
+      "prediction": "306.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-02",
+      "actual": "470.0",
+      "prediction": "478.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-03",
+      "actual": "476.0",
+      "prediction": "573.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-04",
+      "actual": "478.0",
+      "prediction": "478.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-05",
+      "actual": "599.0",
+      "prediction": "501.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-06",
+      "actual": "574.0",
+      "prediction": "436.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-07",
+      "actual": "433.0",
+      "prediction": "346.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-08",
+      "actual": "356.0",
+      "prediction": "309.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-09",
+      "actual": "492.0",
+      "prediction": "462.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-10",
+      "actual": "555.0",
+      "prediction": "570.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-11",
+      "actual": "523.0",
+      "prediction": "481.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-12",
+      "actual": "603.0",
+      "prediction": "530.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-13",
+      "actual": "525.0",
+      "prediction": "470.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-14",
+      "actual": "311.0",
+      "prediction": "362.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-15",
+      "actual": "264.0",
+      "prediction": "323.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-16",
+      "actual": "439.0",
+      "prediction": "456.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-17",
+      "actual": "510.0",
+      "prediction": "555.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-18",
+      "actual": "528.0",
+      "prediction": "523.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-19",
+      "actual": "627.0",
+      "prediction": "603.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-20",
+      "actual": "631.0",
+      "prediction": "525.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-21",
+      "actual": "635.0",
+      "prediction": "311.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-22",
+      "actual": "649.0",
+      "prediction": "264.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-23",
+      "actual": "2158.0",
+      "prediction": "439.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-24",
+      "actual": "3721.0",
+      "prediction": "510.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-25",
+      "actual": "3120.0",
+      "prediction": "528.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-26",
+      "actual": "1342.0",
+      "prediction": "627.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-27",
+      "actual": "686.0",
+      "prediction": "631.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-28",
+      "actual": "535.0",
+      "prediction": "635.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-29",
+      "actual": "857.0",
+      "prediction": "649.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-30",
+      "actual": "1000.0",
+      "prediction": "2158.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-17",
+      "actual": "510.0",
+      "prediction": "596.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-18",
+      "actual": "528.0",
+      "prediction": "479.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-19",
+      "actual": "627.0",
+      "prediction": "547.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-20",
+      "actual": "631.0",
+      "prediction": "491.0"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-21",
+      "actual": "635.0",
+      "prediction": "336.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-22",
+      "actual": "649.0",
+      "prediction": "303.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-23",
+      "actual": "2158.0",
+      "prediction": "439.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-24",
+      "actual": "3721.0",
+      "prediction": "561.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-25",
+      "actual": "3120.0",
+      "prediction": "505.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-26",
+      "actual": "1342.0",
+      "prediction": "577.75"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-27",
+      "actual": "686.0",
+      "prediction": "547.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-28",
+      "actual": "535.0",
+      "prediction": "419.25"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-29",
+      "actual": "857.0",
+      "prediction": "398.5"
+    },
+    {
+      "agency": "DEP",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-30",
+      "actual": "1000.0",
+      "prediction": "889.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-20",
+      "actual": "797.0",
+      "prediction": "744.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-21",
+      "actual": "659.0",
+      "prediction": "942.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-22",
+      "actual": "597.0",
+      "prediction": "704.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-23",
+      "actual": "671.0",
+      "prediction": "767.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-24",
+      "actual": "340.0",
+      "prediction": "485.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-25",
+      "actual": "328.0",
+      "prediction": "370.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-26",
+      "actual": "329.0",
+      "prediction": "781.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-27",
+      "actual": "683.0",
+      "prediction": "797.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-28",
+      "actual": "750.0",
+      "prediction": "659.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-29",
+      "actual": "802.0",
+      "prediction": "597.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-30",
+      "actual": "672.0",
+      "prediction": "671.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-31",
+      "actual": "494.0",
+      "prediction": "340.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-01",
+      "actual": "350.0",
+      "prediction": "328.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-02",
+      "actual": "696.0",
+      "prediction": "329.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-03",
+      "actual": "829.0",
+      "prediction": "683.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-04",
+      "actual": "830.0",
+      "prediction": "750.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-05",
+      "actual": "712.0",
+      "prediction": "802.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-06",
+      "actual": "658.0",
+      "prediction": "672.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-07",
+      "actual": "392.0",
+      "prediction": "494.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-08",
+      "actual": "384.0",
+      "prediction": "350.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-09",
+      "actual": "671.0",
+      "prediction": "696.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-10",
+      "actual": "744.0",
+      "prediction": "829.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-11",
+      "actual": "859.0",
+      "prediction": "830.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-12",
+      "actual": "797.0",
+      "prediction": "712.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-13",
+      "actual": "679.0",
+      "prediction": "658.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-14",
+      "actual": "340.0",
+      "prediction": "392.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-15",
+      "actual": "330.0",
+      "prediction": "384.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-16",
+      "actual": "756.0",
+      "prediction": "671.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-20",
+      "actual": "797.0",
+      "prediction": "729.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-21",
+      "actual": "659.0",
+      "prediction": "778.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-22",
+      "actual": "597.0",
+      "prediction": "705.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-23",
+      "actual": "671.0",
+      "prediction": "685.5"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-24",
+      "actual": "340.0",
+      "prediction": "441.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-25",
+      "actual": "328.0",
+      "prediction": "367.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-26",
+      "actual": "329.0",
+      "prediction": "746.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-27",
+      "actual": "683.0",
+      "prediction": "747.5"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-28",
+      "actual": "750.0",
+      "prediction": "758.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-29",
+      "actual": "802.0",
+      "prediction": "687.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-30",
+      "actual": "672.0",
+      "prediction": "673.5"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-31",
+      "actual": "494.0",
+      "prediction": "409.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-01",
+      "actual": "350.0",
+      "prediction": "366.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-02",
+      "actual": "696.0",
+      "prediction": "651.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-03",
+      "actual": "829.0",
+      "prediction": "744.5"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-04",
+      "actual": "830.0",
+      "prediction": "770.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-05",
+      "actual": "712.0",
+      "prediction": "706.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-06",
+      "actual": "658.0",
+      "prediction": "676.5"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-07",
+      "actual": "392.0",
+      "prediction": "437.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-08",
+      "actual": "384.0",
+      "prediction": "358.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-09",
+      "actual": "671.0",
+      "prediction": "676.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-10",
+      "actual": "744.0",
+      "prediction": "763.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-11",
+      "actual": "859.0",
+      "prediction": "795.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-12",
+      "actual": "797.0",
+      "prediction": "703.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-13",
+      "actual": "679.0",
+      "prediction": "692.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-14",
+      "actual": "340.0",
+      "prediction": "427.75"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-15",
+      "actual": "330.0",
+      "prediction": "358.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-16",
+      "actual": "756.0",
+      "prediction": "619.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-17",
+      "actual": "802.0",
+      "prediction": "744.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-18",
+      "actual": "733.0",
+      "prediction": "859.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-19",
+      "actual": "771.0",
+      "prediction": "797.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-20",
+      "actual": "728.0",
+      "prediction": "679.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-21",
+      "actual": "363.0",
+      "prediction": "340.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-22",
+      "actual": "385.0",
+      "prediction": "330.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-23",
+      "actual": "810.0",
+      "prediction": "756.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-24",
+      "actual": "952.0",
+      "prediction": "802.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-25",
+      "actual": "1050.0",
+      "prediction": "733.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-26",
+      "actual": "941.0",
+      "prediction": "771.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-27",
+      "actual": "725.0",
+      "prediction": "728.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-28",
+      "actual": "378.0",
+      "prediction": "363.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-29",
+      "actual": "361.0",
+      "prediction": "385.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-30",
+      "actual": "686.0",
+      "prediction": "810.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-17",
+      "actual": "802.0",
+      "prediction": "763.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-18",
+      "actual": "733.0",
+      "prediction": "774.5"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-19",
+      "actual": "771.0",
+      "prediction": "727.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-20",
+      "actual": "728.0",
+      "prediction": "670.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-21",
+      "actual": "363.0",
+      "prediction": "391.5"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-22",
+      "actual": "385.0",
+      "prediction": "348.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-23",
+      "actual": "810.0",
+      "prediction": "613.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-24",
+      "actual": "952.0",
+      "prediction": "764.5"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-25",
+      "actual": "1050.0",
+      "prediction": "793.0"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-26",
+      "actual": "941.0",
+      "prediction": "770.5"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-27",
+      "actual": "725.0",
+      "prediction": "684.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-28",
+      "actual": "378.0",
+      "prediction": "397.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-29",
+      "actual": "361.0",
+      "prediction": "362.25"
+    },
+    {
+      "agency": "DOT",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-30",
+      "actual": "686.0",
+      "prediction": "733.25"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-20",
+      "actual": "1115.0",
+      "prediction": "1102.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-21",
+      "actual": "882.0",
+      "prediction": "856.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-22",
+      "actual": "764.0",
+      "prediction": "1092.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-23",
+      "actual": "1042.0",
+      "prediction": "1022.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-24",
+      "actual": "673.0",
+      "prediction": "827.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-25",
+      "actual": "664.0",
+      "prediction": "731.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-26",
+      "actual": "573.0",
+      "prediction": "1022.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-27",
+      "actual": "1066.0",
+      "prediction": "1115.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-28",
+      "actual": "926.0",
+      "prediction": "882.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-29",
+      "actual": "903.0",
+      "prediction": "764.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-30",
+      "actual": "1248.0",
+      "prediction": "1042.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-31",
+      "actual": "850.0",
+      "prediction": "673.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-01",
+      "actual": "786.0",
+      "prediction": "664.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-02",
+      "actual": "1001.0",
+      "prediction": "573.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-03",
+      "actual": "1170.0",
+      "prediction": "1066.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-04",
+      "actual": "1214.0",
+      "prediction": "926.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-05",
+      "actual": "1129.0",
+      "prediction": "903.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-06",
+      "actual": "1240.0",
+      "prediction": "1248.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-07",
+      "actual": "833.0",
+      "prediction": "850.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-08",
+      "actual": "771.0",
+      "prediction": "786.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-09",
+      "actual": "1010.0",
+      "prediction": "1001.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-10",
+      "actual": "1156.0",
+      "prediction": "1170.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-11",
+      "actual": "1160.0",
+      "prediction": "1214.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-12",
+      "actual": "1228.0",
+      "prediction": "1129.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-13",
+      "actual": "1252.0",
+      "prediction": "1240.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-14",
+      "actual": "638.0",
+      "prediction": "833.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-15",
+      "actual": "650.0",
+      "prediction": "771.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-16",
+      "actual": "1107.0",
+      "prediction": "1010.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-20",
+      "actual": "1115.0",
+      "prediction": "1082.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-21",
+      "actual": "882.0",
+      "prediction": "1054.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-22",
+      "actual": "764.0",
+      "prediction": "1153.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-23",
+      "actual": "1042.0",
+      "prediction": "1046.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-24",
+      "actual": "673.0",
+      "prediction": "793.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-25",
+      "actual": "664.0",
+      "prediction": "707.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "49",
+      "date": "2025-05-26",
+      "actual": "573.0",
+      "prediction": "986.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-27",
+      "actual": "1066.0",
+      "prediction": "1091.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-28",
+      "actual": "926.0",
+      "prediction": "1006.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-29",
+      "actual": "903.0",
+      "prediction": "1049.25"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-30",
+      "actual": "1248.0",
+      "prediction": "1017.25"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-05-31",
+      "actual": "850.0",
+      "prediction": "770.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-01",
+      "actual": "786.0",
+      "prediction": "702.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "56",
+      "date": "2025-06-02",
+      "actual": "1001.0",
+      "prediction": "874.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-03",
+      "actual": "1170.0",
+      "prediction": "1073.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-04",
+      "actual": "1214.0",
+      "prediction": "951.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-05",
+      "actual": "1129.0",
+      "prediction": "996.25"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-06",
+      "actual": "1240.0",
+      "prediction": "1044.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-07",
+      "actual": "833.0",
+      "prediction": "782.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-08",
+      "actual": "771.0",
+      "prediction": "711.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "63",
+      "date": "2025-06-09",
+      "actual": "1010.0",
+      "prediction": "915.25"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-10",
+      "actual": "1156.0",
+      "prediction": "1113.25"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-11",
+      "actual": "1160.0",
+      "prediction": "969.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-12",
+      "actual": "1228.0",
+      "prediction": "972.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-13",
+      "actual": "1252.0",
+      "prediction": "1138.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-14",
+      "actual": "638.0",
+      "prediction": "795.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-15",
+      "actual": "650.0",
+      "prediction": "738.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "validation",
+      "origin": "70",
+      "date": "2025-06-16",
+      "actual": "1107.0",
+      "prediction": "901.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-17",
+      "actual": "1169.0",
+      "prediction": "1156.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-18",
+      "actual": "1047.0",
+      "prediction": "1160.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-19",
+      "actual": "763.0",
+      "prediction": "1228.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-20",
+      "actual": "905.0",
+      "prediction": "1252.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-21",
+      "actual": "639.0",
+      "prediction": "638.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-22",
+      "actual": "669.0",
+      "prediction": "650.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-23",
+      "actual": "988.0",
+      "prediction": "1107.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-24",
+      "actual": "935.0",
+      "prediction": "1169.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-25",
+      "actual": "974.0",
+      "prediction": "1047.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-26",
+      "actual": "1233.0",
+      "prediction": "763.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-27",
+      "actual": "1238.0",
+      "prediction": "905.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-28",
+      "actual": "799.0",
+      "prediction": "639.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-29",
+      "actual": "834.0",
+      "prediction": "669.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "seasonal_naive",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-30",
+      "actual": "1119.0",
+      "prediction": "988.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-17",
+      "actual": "1169.0",
+      "prediction": "1126.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-18",
+      "actual": "1047.0",
+      "prediction": "1045.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-19",
+      "actual": "763.0",
+      "prediction": "1006.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-20",
+      "actual": "905.0",
+      "prediction": "1195.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-21",
+      "actual": "639.0",
+      "prediction": "748.5"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-22",
+      "actual": "669.0",
+      "prediction": "717.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "77",
+      "date": "2025-06-23",
+      "actual": "988.0",
+      "prediction": "922.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-24",
+      "actual": "935.0",
+      "prediction": "1140.25"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-25",
+      "actual": "974.0",
+      "prediction": "1086.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-26",
+      "actual": "1233.0",
+      "prediction": "1005.75"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-27",
+      "actual": "1238.0",
+      "prediction": "1161.25"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-28",
+      "actual": "799.0",
+      "prediction": "740.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-29",
+      "actual": "834.0",
+      "prediction": "719.0"
+    },
+    {
+      "agency": "DSNY",
+      "model": "weekday_mean",
+      "split": "holdout",
+      "origin": "84",
+      "date": "2025-06-30",
+      "actual": "1119.0",
+      "prediction": "1026.5"
+    }
+  ],
+  "summary": {
+    "requests": 195941.0,
+    "completed": 182307.0,
+    "unresolved": 13634.0,
+    "invalid_closure_timestamps": 203.0,
+    "completed_median_days": 1.0645833333333334
+  }
+}

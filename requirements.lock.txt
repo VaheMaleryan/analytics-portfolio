@@ -1,0 +1,2 @@
+# No third-party runtime or test packages. Python 3.12 standard library and native browser APIs only.
+# Clean installation is verified with a newly created Python 3.12 virtual environment.

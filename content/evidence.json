@@ -1,0 +1,118 @@
+{
+  "voiceai-analytics-lab": {
+    "verification": {
+      "status": "PASS",
+      "recorded_at": "2026-10-14T22:40:49+04:00",
+      "dbt_models": 19,
+      "dbt_tests": 76,
+      "pytest_tests": 23,
+      "independent_numeric_comparisons": 615,
+      "source_hash_checks": 5,
+      "commercial_validation": {
+        "status": "PASS",
+        "label": "SYNTHETIC commercial CSV/Decimal independent validation",
+        "invoice_lines": 87,
+        "projects": 64,
+        "discrepancy_cents": 123,
+        "funnel": {
+          "signed_up": 64,
+          "key_created": 62,
+          "first_success": 59,
+          "deployed": 33
+        }
+      },
+      "lock_sha256": "47b9d582225841c8686c69f7989a52550ac544480b65607395cf82d1463866e3"
+    },
+    "clean_install": {
+      "project": "voiceai-analytics-lab",
+      "exit_code": 0,
+      "fresh_virtual_environment": true,
+      "lock_sha256": "47b9d582225841c8686c69f7989a52550ac544480b65607395cf82d1463866e3",
+      "log": "voiceai-analytics-lab-clean.log",
+      "package_download_cache_may_be_used": true
+    },
+    "repository": "https://github.com/VaheMaleryan/voiceai-analytics-lab",
+    "source_commit": "61dc398ebdbc8fc00c561b93875ce618c150cd64",
+    "data_kind": "SYNTHETIC",
+    "remote_ci": {
+      "conclusion": "success",
+      "headSha": "61dc398ebdbc8fc00c561b93875ce618c150cd64",
+      "status": "completed",
+      "url": "https://github.com/VaheMaleryan/voiceai-analytics-lab/actions/runs/38617385178"
+    }
+  },
+  "nyc311-operations-intelligence": {
+    "verification": {
+      "recorded_at": "2026-10-14T18:29:31.108582+00:00",
+      "python": "3.12.14",
+      "pytest_tests": 8,
+      "dbt_tests": 16,
+      "dbt_models": 7,
+      "independent_validation": {
+        "status": "PASS",
+        "data_kind": "REAL PUBLIC DATA",
+        "rows": 195941,
+        "numeric_comparisons": 1756,
+        "scope_hash": "8a33e882b98ed0b003a9530e5cd778bba6cb5e26d99d138663d6d37b93a3833a",
+        "category_slices": 68
+      },
+      "status": "PASS"
+    },
+    "clean_install": {
+      "project": "nyc311-operations-intelligence",
+      "exit_code": 0,
+      "fresh_virtual_environment": true,
+      "lock_sha256": "47b9d582225841c8686c69f7989a52550ac544480b65607395cf82d1463866e3",
+      "log": "nyc311-operations-intelligence-clean.log",
+      "package_download_cache_may_be_used": true
+    },
+    "repository": "https://github.com/VaheMaleryan/nyc311-operations-intelligence",
+    "source_commit": "78f90895e1ad559e93c33a359d8b2e1571430ebd",
+    "data_kind": "REAL PUBLIC DATA",
+    "remote_ci": {
+      "conclusion": "success",
+      "headSha": "78f90895e1ad559e93c33a359d8b2e1571430ebd",
+      "status": "completed",
+      "url": "https://github.com/VaheMaleryan/nyc311-operations-intelligence/actions/runs/38617408502"
+    }
+  },
+  "developer-ecosystem-intelligence": {
+    "verification": {
+      "recorded_at": "2026-10-14T18:38:05.859525+00:00",
+      "python": "3.12.14",
+      "pytest_tests": 8,
+      "dbt_tests": 12,
+      "dbt_models": 9,
+      "independent_validation": {
+        "status": "PASS",
+        "data_kind": "REAL PUBLIC GITHUB ACTIVITY",
+        "numeric_comparisons": 567,
+        "rows": {
+          "commits": 124,
+          "issues": 210,
+          "releases": 6,
+          "repositories": 3
+        },
+        "snapshot_hash": "9a430af519ce8887a0b6fae0b6c47f57de1f4e69e09aa52f241f7f71d7765495"
+      },
+      "status": "PASS"
+    },
+    "clean_install": {
+      "project": "developer-ecosystem-intelligence",
+      "exit_code": 0,
+      "fresh_virtual_environment": true,
+      "lock_sha256": "47b9d582225841c8686c69f7989a52550ac544480b65607395cf82d1463866e3",
+      "log": "developer-ecosystem-intelligence-clean.log",
+      "package_download_cache_may_be_used": true
+    },
+    "repository": "https://github.com/VaheMaleryan/developer-ecosystem-intelligence",
+    "source_commit": "73f4040e0a1ba3193b390ba2e948f74e6c2d12c1",
+    "data_kind": "REAL PUBLIC DATA",
+    "remote_ci": {
+      "conclusion": "success",
+      "headSha": "73f4040e0a1ba3193b390ba2e948f74e6c2d12c1",
+      "status": "completed",
+      "url": "https://github.com/VaheMaleryan/developer-ecosystem-intelligence/actions/runs/38617428914"
+    }
+  }
+}
